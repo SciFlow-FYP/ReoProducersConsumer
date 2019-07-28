@@ -6,7 +6,7 @@ Processes were written as java methods inside a separate java file. And inside t
 
 ### More details
 
-![Alternator](reo connector.png)
+![Alternator](https://github.com/harmonyreo/ReoProducersConsumer/blob/master/reo%20connector.png)
 
 Processes are connected via a network of channels, and nodes as in this diagram. 
 
