@@ -1,4 +1,4 @@
-# ReoProducersConsumer
+# Reo Producers Consumer
 
 This is a concurrent program that repeatedly prints the outputs of two processes in alternating order, using Reo. For that, we split this program into three different processes: **two producers** which produce outputs and a **consumer** which alternately prints those outputs. These processes are connected via a network of channels and nodes, which constitutes the protocol of the program. The definition of the protocol is expressed using primitive Reo channels, which are imported from the standard library.
 
